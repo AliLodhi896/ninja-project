@@ -1,0 +1,21 @@
+
+{
+    "current":{
+        "name":"Default List",
+        "timestamp":"2020-09-17T00:12:46.685Z",
+        "version":"",
+        "tokens":[{
+            "chainId": 4,
+            "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+            "name": "0xBitcoin Token",
+            "decimals": 18,
+            "symbol": "0xBTC",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
+            
+        }],
+        "keywords":["uniswap", "default"],
+        "tags":{},
+        "logoURI":"ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir"
+    }
+}
+

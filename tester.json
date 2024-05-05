@@ -1,0 +1,892 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 255012517,
+            "message": {
+                "message_id": 2245,
+                "from": {
+                    "id": 5001035031,
+                    "is_bot": false,
+                    "first_name": "bin",
+                    "last_name": "tan",
+                    "username": "tanbin136",
+                    "language_code": "zh-hans"
+                },
+                "chat": {
+                    "id": 5001035031,
+                    "first_name": "bin",
+                    "last_name": "tan",
+                    "username": "tanbin136",
+                    "type": "private"
+                },
+                "date": 1641025911,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012518,
+            "my_chat_member": {
+                "chat": {
+                    "id": 766996906,
+                    "first_name": "Nurdin",
+                    "last_name": "Supriyadi",
+                    "type": "private"
+                },
+                "from": {
+                    "id": 766996906,
+                    "is_bot": false,
+                    "first_name": "Nurdin",
+                    "last_name": "Supriyadi",
+                    "language_code": "id"
+                },
+                "date": 1641038611,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "kicked",
+                    "until_date": 0
+                }
+            }
+        },
+        {
+            "update_id": 255012519,
+            "message": {
+                "message_id": 2246,
+                "from": {
+                    "id": 1344498255,
+                    "is_bot": false,
+                    "first_name": "Dekka",
+                    "last_name": "Official",
+                    "username": "dekkaofficial",
+                    "language_code": "id"
+                },
+                "chat": {
+                    "id": 1344498255,
+                    "first_name": "Dekka",
+                    "last_name": "Official",
+                    "username": "dekkaofficial",
+                    "type": "private"
+                },
+                "date": 1641042895,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012520,
+            "message": {
+                "message_id": 2247,
+                "from": {
+                    "id": 1344498255,
+                    "is_bot": false,
+                    "first_name": "Dekka",
+                    "last_name": "Official",
+                    "username": "dekkaofficial",
+                    "language_code": "id"
+                },
+                "chat": {
+                    "id": 1344498255,
+                    "first_name": "Dekka",
+                    "last_name": "Official",
+                    "username": "dekkaofficial",
+                    "type": "private"
+                },
+                "date": 1641042960,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012521,
+            "message": {
+                "message_id": 2248,
+                "from": {
+                    "id": 1307938986,
+                    "is_bot": false,
+                    "first_name": "khai",
+                    "last_name": "minhtop1",
+                    "username": "khaiminhtop1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1307938986,
+                    "first_name": "khai",
+                    "last_name": "minhtop1",
+                    "username": "khaiminhtop1",
+                    "type": "private"
+                },
+                "date": 1641050352,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012522,
+            "message": {
+                "message_id": 2249,
+                "from": {
+                    "id": 5099788637,
+                    "is_bot": false,
+                    "first_name": "Arshad",
+                    "last_name": "Abdoollah",
+                    "username": "Shad2626",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5099788637,
+                    "first_name": "Arshad",
+                    "last_name": "Abdoollah",
+                    "username": "Shad2626",
+                    "type": "private"
+                },
+                "date": 1641054179,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012523,
+            "message": {
+                "message_id": 2250,
+                "from": {
+                    "id": 5099788637,
+                    "is_bot": false,
+                    "first_name": "Arshad",
+                    "last_name": "Abdoollah",
+                    "username": "Shad2626",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5099788637,
+                    "first_name": "Arshad",
+                    "last_name": "Abdoollah",
+                    "username": "Shad2626",
+                    "type": "private"
+                },
+                "date": 1641054323,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012524,
+            "message": {
+                "message_id": 2251,
+                "from": {
+                    "id": 5099788637,
+                    "is_bot": false,
+                    "first_name": "Arshad",
+                    "last_name": "Abdoollah",
+                    "username": "Shad2626",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5099788637,
+                    "first_name": "Arshad",
+                    "last_name": "Abdoollah",
+                    "username": "Shad2626",
+                    "type": "private"
+                },
+                "date": 1641054372,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012525,
+            "message": {
+                "message_id": 2252,
+                "from": {
+                    "id": 1567877183,
+                    "is_bot": false,
+                    "first_name": "Davit90",
+                    "username": "Davit90",
+                    "language_code": "id"
+                },
+                "chat": {
+                    "id": 1567877183,
+                    "first_name": "Davit90",
+                    "username": "Davit90",
+                    "type": "private"
+                },
+                "date": 1641054590,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012526,
+            "message": {
+                "message_id": 2253,
+                "from": {
+                    "id": 1567877183,
+                    "is_bot": false,
+                    "first_name": "Davit90",
+                    "username": "Davit90",
+                    "language_code": "id"
+                },
+                "chat": {
+                    "id": 1567877183,
+                    "first_name": "Davit90",
+                    "username": "Davit90",
+                    "type": "private"
+                },
+                "date": 1641054600,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012527,
+            "message": {
+                "message_id": 2254,
+                "from": {
+                    "id": 1567877183,
+                    "is_bot": false,
+                    "first_name": "Davit90",
+                    "username": "Davit90",
+                    "language_code": "id"
+                },
+                "chat": {
+                    "id": 1567877183,
+                    "first_name": "Davit90",
+                    "username": "Davit90",
+                    "type": "private"
+                },
+                "date": 1641055033,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012528,
+            "my_chat_member": {
+                "chat": {
+                    "id": 1567877183,
+                    "first_name": "Davit90",
+                    "username": "Davit90",
+                    "type": "private"
+                },
+                "from": {
+                    "id": 1567877183,
+                    "is_bot": false,
+                    "first_name": "Davit90",
+                    "username": "Davit90",
+                    "language_code": "id"
+                },
+                "date": 1641055038,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "kicked",
+                    "until_date": 0
+                }
+            }
+        },
+        {
+            "update_id": 255012529,
+            "message": {
+                "message_id": 2255,
+                "from": {
+                    "id": 1958604713,
+                    "is_bot": false,
+                    "first_name": "Rahele",
+                    "last_name": "Rashidzade",
+                    "username": "rahelerashidzade",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1958604713,
+                    "first_name": "Rahele",
+                    "last_name": "Rashidzade",
+                    "username": "rahelerashidzade",
+                    "type": "private"
+                },
+                "date": 1641065190,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012530,
+            "message": {
+                "message_id": 2256,
+                "from": {
+                    "id": 1958604713,
+                    "is_bot": false,
+                    "first_name": "Rahele",
+                    "last_name": "Rashidzade",
+                    "username": "rahelerashidzade",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1958604713,
+                    "first_name": "Rahele",
+                    "last_name": "Rashidzade",
+                    "username": "rahelerashidzade",
+                    "type": "private"
+                },
+                "date": 1641065248,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012531,
+            "message": {
+                "message_id": 2257,
+                "from": {
+                    "id": 1958604713,
+                    "is_bot": false,
+                    "first_name": "Rahele",
+                    "last_name": "Rashidzade",
+                    "username": "rahelerashidzade",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1958604713,
+                    "first_name": "Rahele",
+                    "last_name": "Rashidzade",
+                    "username": "rahelerashidzade",
+                    "type": "private"
+                },
+                "date": 1641065323,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012532,
+            "my_chat_member": {
+                "chat": {
+                    "id": 5034081219,
+                    "first_name": "kamuaku00",
+                    "username": "kamuaku00",
+                    "type": "private"
+                },
+                "from": {
+                    "id": 5034081219,
+                    "is_bot": false,
+                    "first_name": "kamuaku00",
+                    "username": "kamuaku00",
+                    "language_code": "id"
+                },
+                "date": 1641073671,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "kicked",
+                    "until_date": 0
+                }
+            }
+        },
+        {
+            "update_id": 255012533,
+            "my_chat_member": {
+                "chat": {
+                    "id": 2137734308,
+                    "first_name": "Lvyu",
+                    "last_name": "My",
+                    "username": "naevislvyu",
+                    "type": "private"
+                },
+                "from": {
+                    "id": 2137734308,
+                    "is_bot": false,
+                    "first_name": "Lvyu",
+                    "last_name": "My",
+                    "username": "naevislvyu"
+                },
+                "date": 1641087214,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "kicked",
+                    "until_date": 0
+                }
+            }
+        },
+        {
+            "update_id": 255012534,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001435855805,
+                    "title": "Vibook",
+                    "username": "vibookchain",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 1648169703,
+                    "is_bot": false,
+                    "first_name": "Raphael",
+                    "username": "raphaelninja",
+                    "language_code": "en"
+                },
+                "date": 1641103963,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "left"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                }
+            }
+        },
+        {
+            "update_id": 255012535,
+            "message": {
+                "message_id": 2959,
+                "from": {
+                    "id": 1648169703,
+                    "is_bot": false,
+                    "first_name": "Raphael",
+                    "username": "raphaelninja",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": -1001435855805,
+                    "title": "Vibook",
+                    "username": "vibookchain",
+                    "type": "supergroup"
+                },
+                "date": 1641103963,
+                "new_chat_participant": {
+                    "id": 5082315693,
+                    "is_bot": true,
+                    "first_name": "NinjaSwapBountyBot",
+                    "username": "NinjaSwapBountyBot"
+                },
+                "new_chat_member": {
+                    "id": 5082315693,
+                    "is_bot": true,
+                    "first_name": "NinjaSwapBountyBot",
+                    "username": "NinjaSwapBountyBot"
+                },
+                "new_chat_members": [
+                    {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012536,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001435855805,
+                    "title": "Vibook",
+                    "username": "vibookchain",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 5094539976,
+                    "is_bot": true,
+                    "first_name": "Vibook Bot",
+                    "username": "VibookAdmBot"
+                },
+                "date": 1641103964,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "left"
+                }
+            }
+        },
+        {
+            "update_id": 255012537,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001435855805,
+                    "title": "Vibook",
+                    "username": "vibookchain",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 1648169703,
+                    "is_bot": false,
+                    "first_name": "Raphael",
+                    "username": "raphaelninja",
+                    "language_code": "en"
+                },
+                "date": 1641104051,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "left"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                }
+            }
+        },
+        {
+            "update_id": 255012538,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001435855805,
+                    "title": "Vibook",
+                    "username": "vibookchain",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 5094539976,
+                    "is_bot": true,
+                    "first_name": "Vibook Bot",
+                    "username": "VibookAdmBot"
+                },
+                "date": 1641104052,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "left"
+                }
+            }
+        },
+        {
+            "update_id": 255012539,
+            "message": {
+                "message_id": 2972,
+                "from": {
+                    "id": 1648169703,
+                    "is_bot": false,
+                    "first_name": "Raphael",
+                    "username": "raphaelninja",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": -1001435855805,
+                    "title": "Vibook",
+                    "username": "vibookchain",
+                    "type": "supergroup"
+                },
+                "date": 1641104199,
+                "new_chat_participant": {
+                    "id": 5082315693,
+                    "is_bot": true,
+                    "first_name": "NinjaSwapBountyBot",
+                    "username": "NinjaSwapBountyBot"
+                },
+                "new_chat_member": {
+                    "id": 5082315693,
+                    "is_bot": true,
+                    "first_name": "NinjaSwapBountyBot",
+                    "username": "NinjaSwapBountyBot"
+                },
+                "new_chat_members": [
+                    {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 255012540,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001435855805,
+                    "title": "Vibook",
+                    "username": "vibookchain",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 1648169703,
+                    "is_bot": false,
+                    "first_name": "Raphael",
+                    "username": "raphaelninja",
+                    "language_code": "en"
+                },
+                "date": 1641104199,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "left"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                }
+            }
+        },
+        {
+            "update_id": 255012541,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001275257006,
+                    "title": "Farm Yield Official \ud83c\udf52\ud83e\udd52\ud83c\udf3d\ud83e\uded1\ud83c\udf36\ud83e\udd69",
+                    "username": "farmyieldofficial",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 1648169703,
+                    "is_bot": false,
+                    "first_name": "Raphael",
+                    "username": "raphaelninja",
+                    "language_code": "en"
+                },
+                "date": 1641104384,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "left"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    },
+                    "status": "member"
+                }
+            }
+        },
+        {
+            "update_id": 255012542,
+            "message": {
+                "message_id": 31020,
+                "from": {
+                    "id": 1648169703,
+                    "is_bot": false,
+                    "first_name": "Raphael",
+                    "username": "raphaelninja",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": -1001275257006,
+                    "title": "Farm Yield Official \ud83c\udf52\ud83e\udd52\ud83c\udf3d\ud83e\uded1\ud83c\udf36\ud83e\udd69",
+                    "username": "farmyieldofficial",
+                    "type": "supergroup"
+                },
+                "date": 1641104384,
+                "new_chat_participant": {
+                    "id": 5082315693,
+                    "is_bot": true,
+                    "first_name": "NinjaSwapBountyBot",
+                    "username": "NinjaSwapBountyBot"
+                },
+                "new_chat_member": {
+                    "id": 5082315693,
+                    "is_bot": true,
+                    "first_name": "NinjaSwapBountyBot",
+                    "username": "NinjaSwapBountyBot"
+                },
+                "new_chat_members": [
+                    {
+                        "id": 5082315693,
+                        "is_bot": true,
+                        "first_name": "NinjaSwapBountyBot",
+                        "username": "NinjaSwapBountyBot"
+                    }
+                ]
+            }
+        }
+    ]
+},
+{
+    "Link": "https://twitter.com/FarmYield_DeFi/status/1477540799315423233",
+    "Text": "Retweet this tweet and must tag 3 friends , use these hashtags #FarmYield #FAMY #ninjaswap #BSC",
+    "tweetId": "1477540799315423233"
+}
+{
+    "retweetId": "1477540799315423233",
+    "minMentions": "3",
+    "hashtags": "'FarmYield','ninjaswap', 'BSC'"
+}
